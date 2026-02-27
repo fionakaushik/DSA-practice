@@ -1,2 +1,2 @@
 # DSA-practice
-Ongoing DSA prep repo
+Ongoing DSA prep repository
