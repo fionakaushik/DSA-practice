@@ -6,10 +6,12 @@ Ongoing DSA prep repository
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/fionakaushik/DSA-practice/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Divide and Conquer
