@@ -14,6 +14,7 @@ Ongoing DSA prep repository
 | [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fionakaushik/DSA-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,8 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fionakaushik/DSA-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 <!---LeetCode Topics End-->
