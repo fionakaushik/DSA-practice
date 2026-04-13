@@ -14,6 +14,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0078-subsets](https://github.com/fionakaushik/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/fionakaushik/DSA-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fionakaushik/DSA-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
