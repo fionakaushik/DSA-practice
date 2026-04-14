@@ -16,6 +16,7 @@ Ongoing DSA prep repository
 | [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fionakaushik/DSA-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fionakaushik/DSA-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -53,6 +54,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,8 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 <!---LeetCode Topics End-->
