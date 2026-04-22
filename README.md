@@ -44,6 +44,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fionakaushik/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fionakaushik/DSA-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -61,6 +62,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fionakaushik/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -69,6 +71,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fionakaushik/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fionakaushik/DSA-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
