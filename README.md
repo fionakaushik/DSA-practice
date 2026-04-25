@@ -8,6 +8,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0078-subsets](https://github.com/fionakaushik/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/fionakaushik/DSA-practice/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@ Ongoing DSA prep repository
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -149,4 +151,12 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
