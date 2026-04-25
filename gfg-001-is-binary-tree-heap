@@ -1,1 +1,86 @@
+/*
+class Node {
+   public:
+    int data;
+    Node *left;
+    Node *right;
 
+    Node(int val) {
+        data = val;
+        left = right = NULL;
+    }
+};
+*/
+
+class Solution {
+  private:
+    int countNode(Node* root)
+    {
+        if(root==NULL)   //base case
+            return 0;
+        int cnt=1+countNode(root->left)+countNode(root->right);
+        return cnt;
+    }
+    
+    
+    bool isCBT(Node* root,int i,int totalcnt)
+    {
+        if(root==NULL) //leaf node (no left no right ,return true )
+            return true;
+        if(i>=totalcnt) //valid idxes are (0 to totalcnt-1)
+            return false; //means if gap present
+        else
+        {
+            bool left= isCBT(root->left,2*i+1,totalcnt);
+            bool right=isCBT(root->right,2*i+2,totalcnt);
+            // if(left && right)
+            //     return true;
+            return (left && right);
+        }
+        return false;
+    }
+    
+    bool isMaxHeap(Node* root)
+    {
+        //we reach here when its sure our tree is cbt,therefore case1:both child nodes 
+        // ,case 2: only left child exists
+        if(root->left==NULL && root->right==NULL) //leaf node always true
+            return true;
+            
+        //case 2:only left child
+        if(root->right==NULL)
+        {
+            // if(root->left->data > root->data)
+            //     return false;
+            // return true;
+            return root->data>root->left->data;
+        }
+        
+        //case 1:both child exists
+        else
+        {
+            return ((root->data > root->left->data) && (root->data > root->right->data )
+                && (isMaxHeap(root->left)) && (isMaxHeap(root->right)));
+                
+        }
+        return false;
+    }
+        
+  public:
+    bool isHeap(Node* root) {
+        
+        //SHOULD BE IS CBT 
+        //SHOULD HAVE MAX HEAP PROPERTY
+        if(root==NULL)
+            return true;
+        if(root->left==nullptr && root->right==nullptr)  //single node
+            return true;
+        
+        int idx=0;
+        int nodecnt=countNode(root);
+        if(isCBT(root,idx,nodecnt) && isMaxHeap(root))
+            return true;
+        
+        return false;
+    }
+};
