@@ -21,6 +21,7 @@ Ongoing DSA prep repository
 | [1004-max-consecutive-ones-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/fionakaushik/DSA-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/fionakaushik/DSA-practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fionakaushik/DSA-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fionakaushik/DSA-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -133,10 +134,12 @@ Ongoing DSA prep repository
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fionakaushik/DSA-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fionakaushik/DSA-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -167,4 +170,12 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
