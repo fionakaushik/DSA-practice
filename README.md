@@ -78,6 +78,7 @@ Ongoing DSA prep repository
 | [0020-valid-parentheses](https://github.com/fionakaushik/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0796-rotate-string](https://github.com/fionakaushik/DSA-practice/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/fionakaushik/DSA-practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -218,4 +219,8 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/fionakaushik/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/fionakaushik/DSA-practice/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
