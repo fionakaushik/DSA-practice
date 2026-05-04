@@ -13,6 +13,7 @@ Ongoing DSA prep repository
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/fionakaushik/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -132,6 +133,7 @@ Ongoing DSA prep repository
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0788-rotated-digits/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/fionakaushik/DSA-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -196,6 +198,7 @@ Ongoing DSA prep repository
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/fionakaushik/DSA-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
