@@ -13,6 +13,7 @@ Ongoing DSA prep repository
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0078-subsets](https://github.com/fionakaushik/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
@@ -103,6 +104,7 @@ Ongoing DSA prep repository
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -147,6 +149,7 @@ Ongoing DSA prep repository
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -211,6 +214,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/fionakaushik/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/fionakaushik/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/fionakaushik/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -234,6 +238,7 @@ Ongoing DSA prep repository
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
