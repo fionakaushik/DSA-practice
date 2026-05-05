@@ -150,6 +150,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/fionakaushik/DSA-practice/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -241,4 +242,8 @@ Ongoing DSA prep repository
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/fionakaushik/DSA-practice/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
