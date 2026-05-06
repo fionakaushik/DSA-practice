@@ -31,6 +31,7 @@ Ongoing DSA prep repository
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fionakaushik/DSA-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/fionakaushik/DSA-practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/fionakaushik/DSA-practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/fionakaushik/DSA-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fionakaushik/DSA-practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/fionakaushik/DSA-practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -152,6 +153,7 @@ Ongoing DSA prep repository
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/fionakaushik/DSA-practice/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/fionakaushik/DSA-practice/tree/main/1861-rotating-the-box/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ Ongoing DSA prep repository
 | [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1861-rotating-the-box](https://github.com/fionakaushik/DSA-practice/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/fionakaushik/DSA-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
