@@ -44,6 +44,7 @@ Ongoing DSA prep repository
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3660-jump-game-ix](https://github.com/fionakaushik/DSA-practice/tree/main/3660-jump-game-ix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/fionakaushik/DSA-practice/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -113,6 +114,7 @@ Ongoing DSA prep repository
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3660-jump-game-ix](https://github.com/fionakaushik/DSA-practice/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
