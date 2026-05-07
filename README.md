@@ -21,6 +21,7 @@ Ongoing DSA prep repository
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fionakaushik/DSA-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -108,6 +109,7 @@ Ongoing DSA prep repository
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0788-rotated-digits/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -224,6 +226,7 @@ Ongoing DSA prep repository
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +248,7 @@ Ongoing DSA prep repository
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
