@@ -21,6 +21,7 @@ Ongoing DSA prep repository
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/fionakaushik/DSA-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -59,6 +60,7 @@ Ongoing DSA prep repository
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -232,6 +234,7 @@ Ongoing DSA prep repository
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
