@@ -42,6 +42,7 @@ Ongoing DSA prep repository
 | [2452-words-within-two-edits-of-dictionary](https://github.com/fionakaushik/DSA-practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/fionakaushik/DSA-practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/fionakaushik/DSA-practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/fionakaushik/DSA-practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -66,6 +67,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
