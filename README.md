@@ -252,6 +252,7 @@ Ongoing DSA prep repository
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
+| [0901-online-stock-span](https://github.com/fionakaushik/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/fionakaushik/DSA-practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Design
@@ -260,6 +261,7 @@ Ongoing DSA prep repository
 | [0155-min-stack](https://github.com/fionakaushik/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/fionakaushik/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/fionakaushik/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,6 +280,7 @@ Ongoing DSA prep repository
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/fionakaushik/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/fionakaushik/DSA-practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Linked List
@@ -288,4 +291,8 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/fionakaushik/DSA-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/fionakaushik/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
