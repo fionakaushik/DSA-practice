@@ -77,6 +77,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/fionakaushik/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/fionakaushik/DSA-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -264,6 +265,7 @@ Ongoing DSA prep repository
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/fionakaushik/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/fionakaushik/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -294,6 +296,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/fionakaushik/DSA-practice/tree/main/0061-rotate-list/) | Medium |
+| [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,4 +309,8 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/fionakaushik/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
