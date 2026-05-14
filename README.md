@@ -80,6 +80,7 @@ Ongoing DSA prep repository
 | [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0460-lfu-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/fionakaushik/DSA-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -272,6 +273,7 @@ Ongoing DSA prep repository
 | [0155-min-stack](https://github.com/fionakaushik/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/fionakaushik/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0460-lfu-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0460-lfu-cache/) | Hard |
 | [0901-online-stock-span](https://github.com/fionakaushik/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -300,6 +302,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/fionakaushik/DSA-practice/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0460-lfu-cache/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,4 +319,5 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
+| [0460-lfu-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0460-lfu-cache/) | Hard |
 <!---LeetCode Topics End-->
