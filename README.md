@@ -26,6 +26,7 @@ Ongoing DSA prep repository
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/fionakaushik/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
+| [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
@@ -173,6 +174,7 @@ Ongoing DSA prep repository
 | [0016-3sum-closest](https://github.com/fionakaushik/DSA-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/fionakaushik/DSA-practice/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fionakaushik/DSA-practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/fionakaushik/DSA-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -197,12 +199,14 @@ Ongoing DSA prep repository
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/fionakaushik/DSA-practice/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/fionakaushik/DSA-practice/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/fionakaushik/DSA-practice/tree/main/1861-rotating-the-box/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
+| [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fionakaushik/DSA-practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fionakaushik/DSA-practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Depth-First Search
