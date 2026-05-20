@@ -15,6 +15,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/fionakaushik/DSA-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/fionakaushik/DSA-practice/tree/main/0075-sort-colors/) | Medium |
@@ -142,6 +143,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/fionakaushik/DSA-practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
@@ -212,6 +214,7 @@ Ongoing DSA prep repository
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
