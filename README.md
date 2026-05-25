@@ -128,6 +128,7 @@ Ongoing DSA prep repository
 | [0796-rotate-string](https://github.com/fionakaushik/DSA-practice/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1871-jump-game-vii](https://github.com/fionakaushik/DSA-practice/tree/main/1871-jump-game-vii/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/fionakaushik/DSA-practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/fionakaushik/DSA-practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fionakaushik/DSA-practice/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -145,6 +146,7 @@ Ongoing DSA prep repository
 | [1248-count-number-of-nice-subarrays](https://github.com/fionakaushik/DSA-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/fionakaushik/DSA-practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1871-jump-game-vii](https://github.com/fionakaushik/DSA-practice/tree/main/1871-jump-game-vii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +159,7 @@ Ongoing DSA prep repository
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/fionakaushik/DSA-practice/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/fionakaushik/DSA-practice/tree/main/1871-jump-game-vii/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/fionakaushik/DSA-practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -182,6 +185,7 @@ Ongoing DSA prep repository
 | [1248-count-number-of-nice-subarrays](https://github.com/fionakaushik/DSA-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/fionakaushik/DSA-practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/fionakaushik/DSA-practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/fionakaushik/DSA-practice/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/fionakaushik/DSA-practice/tree/main/2615-sum-of-distances/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 ## Sorting
