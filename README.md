@@ -104,6 +104,7 @@ Ongoing DSA prep repository
 | [1345-jump-game-iv](https://github.com/fionakaushik/DSA-practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/fionakaushik/DSA-practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/fionakaushik/DSA-practice/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2540-minimum-common-value](https://github.com/fionakaushik/DSA-practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/fionakaushik/DSA-practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/fionakaushik/DSA-practice/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -131,6 +132,7 @@ Ongoing DSA prep repository
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/fionakaushik/DSA-practice/tree/main/1871-jump-game-vii/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/fionakaushik/DSA-practice/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/fionakaushik/DSA-practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/fionakaushik/DSA-practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fionakaushik/DSA-practice/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -375,4 +377,8 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0460-lfu-cache/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/fionakaushik/DSA-practice/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 <!---LeetCode Topics End-->
