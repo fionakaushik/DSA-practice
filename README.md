@@ -126,6 +126,7 @@ Ongoing DSA prep repository
 | [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/fionakaushik/DSA-practice/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -157,6 +158,7 @@ Ongoing DSA prep repository
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/fionakaushik/DSA-practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0788-rotated-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -233,6 +235,7 @@ Ongoing DSA prep repository
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/fionakaushik/DSA-practice/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fionakaushik/DSA-practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fionakaushik/DSA-practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -313,6 +316,7 @@ Ongoing DSA prep repository
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/fionakaushik/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
