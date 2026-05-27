@@ -95,6 +95,7 @@ Ongoing DSA prep repository
 | [0003-longest-substring-without-repeating-characters](https://github.com/fionakaushik/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
 | [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/fionakaushik/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0460-lfu-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -125,6 +126,7 @@ Ongoing DSA prep repository
 | [0003-longest-substring-without-repeating-characters](https://github.com/fionakaushik/DSA-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/fionakaushik/DSA-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/fionakaushik/DSA-practice/tree/main/0076-minimum-window-substring/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/fionakaushik/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -257,6 +259,7 @@ Ongoing DSA prep repository
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/fionakaushik/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2833-furthest-point-from-origin](https://github.com/fionakaushik/DSA-practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Trie
@@ -338,6 +341,7 @@ Ongoing DSA prep repository
 | [0225-implement-stack-using-queues](https://github.com/fionakaushik/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/fionakaushik/DSA-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/fionakaushik/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/fionakaushik/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
