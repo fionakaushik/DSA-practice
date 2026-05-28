@@ -65,6 +65,7 @@ Ongoing DSA prep repository
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/fionakaushik/DSA-practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/fionakaushik/DSA-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/fionakaushik/DSA-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -140,6 +141,7 @@ Ongoing DSA prep repository
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/fionakaushik/DSA-practice/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fionakaushik/DSA-practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/fionakaushik/DSA-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/fionakaushik/DSA-practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Sliding Window
@@ -269,6 +271,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/fionakaushik/DSA-practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/fionakaushik/DSA-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
