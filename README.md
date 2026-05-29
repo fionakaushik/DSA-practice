@@ -20,6 +20,7 @@ Ongoing DSA prep repository
 | [0045-jump-game-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/fionakaushik/DSA-practice/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/fionakaushik/DSA-practice/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/fionakaushik/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/fionakaushik/DSA-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
