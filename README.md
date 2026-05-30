@@ -31,6 +31,7 @@ Ongoing DSA prep repository
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/fionakaushik/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/fionakaushik/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -171,6 +172,7 @@ Ongoing DSA prep repository
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0085-maximal-rectangle](https://github.com/fionakaushik/DSA-practice/tree/main/0085-maximal-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/fionakaushik/DSA-practice/tree/main/0396-rotate-function/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/fionakaushik/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0788-rotated-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -211,6 +213,7 @@ Ongoing DSA prep repository
 | [0016-3sum-closest](https://github.com/fionakaushik/DSA-practice/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/fionakaushik/DSA-practice/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/fionakaushik/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [1340-jump-game-v](https://github.com/fionakaushik/DSA-practice/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fionakaushik/DSA-practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -248,6 +251,7 @@ Ongoing DSA prep repository
 | [0045-jump-game-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/fionakaushik/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/fionakaushik/DSA-practice/tree/main/0860-lemonade-change/) | Easy |
