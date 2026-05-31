@@ -25,6 +25,7 @@ Ongoing DSA prep repository
 | [0078-subsets](https://github.com/fionakaushik/DSA-practice/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/fionakaushik/DSA-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/fionakaushik/DSA-practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [0135-candy](https://github.com/fionakaushik/DSA-practice/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/fionakaushik/DSA-practice/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/fionakaushik/DSA-practice/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -252,6 +253,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/fionakaushik/DSA-practice/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/fionakaushik/DSA-practice/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/fionakaushik/DSA-practice/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/fionakaushik/DSA-practice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
