@@ -190,6 +190,7 @@ Ongoing DSA prep repository
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3660-jump-game-ix](https://github.com/fionakaushik/DSA-practice/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/fionakaushik/DSA-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ Ongoing DSA prep repository
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/fionakaushik/DSA-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/fionakaushik/DSA-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/fionakaushik/DSA-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fionakaushik/DSA-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/fionakaushik/DSA-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
@@ -420,6 +422,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/fionakaushik/DSA-practice/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/fionakaushik/DSA-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
