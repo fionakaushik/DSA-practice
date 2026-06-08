@@ -62,6 +62,7 @@ Ongoing DSA prep repository
 | [2104-sum-of-subarray-ranges](https://github.com/fionakaushik/DSA-practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2126-destroying-asteroids](https://github.com/fionakaushik/DSA-practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fionakaushik/DSA-practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/fionakaushik/DSA-practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/fionakaushik/DSA-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/fionakaushik/DSA-practice/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -101,6 +102,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/fionakaushik/DSA-practice/tree/main/0735-asteroid-collision/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/fionakaushik/DSA-practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
@@ -265,6 +267,7 @@ Ongoing DSA prep repository
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/fionakaushik/DSA-practice/tree/main/1861-rotating-the-box/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/fionakaushik/DSA-practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/fionakaushik/DSA-practice/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
