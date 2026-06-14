@@ -274,6 +274,7 @@ Ongoing DSA prep repository
 | [0455-assign-cookies](https://github.com/fionakaushik/DSA-practice/tree/main/0455-assign-cookies/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/fionakaushik/DSA-practice/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/fionakaushik/DSA-practice/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/fionakaushik/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/fionakaushik/DSA-practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/fionakaushik/DSA-practice/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -388,6 +389,7 @@ Ongoing DSA prep repository
 | [0901-online-stock-span](https://github.com/fionakaushik/DSA-practice/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/fionakaushik/DSA-practice/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/fionakaushik/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +428,7 @@ Ongoing DSA prep repository
 | [0061-rotate-list](https://github.com/fionakaushik/DSA-practice/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/fionakaushik/DSA-practice/tree/main/0460-lfu-cache/) | Hard |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/fionakaushik/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
