@@ -108,6 +108,7 @@ Ongoing DSA prep repository
 | [1914-cyclically-rotating-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/fionakaushik/DSA-practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/fionakaushik/DSA-practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/fionakaushik/DSA-practice/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@ Ongoing DSA prep repository
 | [3093-longest-common-suffix-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/fionakaushik/DSA-practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/fionakaushik/DSA-practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
