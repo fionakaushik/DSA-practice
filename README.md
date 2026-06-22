@@ -126,6 +126,7 @@ Ongoing DSA prep repository
 | [0496-next-greater-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/fionakaushik/DSA-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/fionakaushik/DSA-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/fionakaushik/DSA-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1345-jump-game-iv](https://github.com/fionakaushik/DSA-practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -159,6 +160,7 @@ Ongoing DSA prep repository
 | [0424-longest-repeating-character-replacement](https://github.com/fionakaushik/DSA-practice/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/fionakaushik/DSA-practice/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/fionakaushik/DSA-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/fionakaushik/DSA-practice/tree/main/1871-jump-game-vii/) | Medium |
@@ -332,6 +334,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/fionakaushik/DSA-practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/fionakaushik/DSA-practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/fionakaushik/DSA-practice/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
