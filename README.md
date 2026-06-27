@@ -78,6 +78,7 @@ Ongoing DSA prep repository
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/fionakaushik/DSA-practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/fionakaushik/DSA-practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/fionakaushik/DSA-practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/fionakaushik/DSA-practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/fionakaushik/DSA-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3161-block-placement-queries/) | Hard |
@@ -141,6 +142,7 @@ Ongoing DSA prep repository
 | [2615-sum-of-distances](https://github.com/fionakaushik/DSA-practice/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/fionakaushik/DSA-practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/fionakaushik/DSA-practice/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/fionakaushik/DSA-practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/fionakaushik/DSA-practice/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/fionakaushik/DSA-practice/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -481,6 +483,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/fionakaushik/DSA-practice/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/fionakaushik/DSA-practice/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fionakaushik/DSA-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
