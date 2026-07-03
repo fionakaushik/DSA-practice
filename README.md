@@ -89,6 +89,7 @@ Ongoing DSA prep repository
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/fionakaushik/DSA-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -218,6 +219,7 @@ Ongoing DSA prep repository
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/fionakaushik/DSA-practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/fionakaushik/DSA-practice/tree/main/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/fionakaushik/DSA-practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -237,6 +239,7 @@ Ongoing DSA prep repository
 | [3161-block-placement-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3161-block-placement-queries/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Prefix Sum
@@ -367,6 +370,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/fionakaushik/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -510,4 +514,16 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
