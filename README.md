@@ -85,6 +85,7 @@ Ongoing DSA prep repository
 | [3093-longest-common-suffix-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/fionakaushik/DSA-practice/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -370,6 +371,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/fionakaushik/DSA-practice/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Quickselect
@@ -399,6 +401,7 @@ Ongoing DSA prep repository
 | [1345-jump-game-iv](https://github.com/fionakaushik/DSA-practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/fionakaushik/DSA-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -411,6 +414,7 @@ Ongoing DSA prep repository
 | [1914-cyclically-rotating-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/fionakaushik/DSA-practice/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -517,6 +521,7 @@ Ongoing DSA prep repository
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -525,5 +530,6 @@ Ongoing DSA prep repository
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
