@@ -44,6 +44,7 @@ Ongoing DSA prep repository
 | [0992-subarrays-with-k-different-integers](https://github.com/fionakaushik/DSA-practice/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/fionakaushik/DSA-practice/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/fionakaushik/DSA-practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/fionakaushik/DSA-practice/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/fionakaushik/DSA-practice/tree/main/1345-jump-game-iv/) | Hard |
@@ -213,6 +214,7 @@ Ongoing DSA prep repository
 | [0678-valid-parenthesis-string](https://github.com/fionakaushik/DSA-practice/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0788-rotated-digits](https://github.com/fionakaushik/DSA-practice/tree/main/0788-rotated-digits/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/fionakaushik/DSA-practice/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/fionakaushik/DSA-practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/fionakaushik/DSA-practice/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/fionakaushik/DSA-practice/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/fionakaushik/DSA-practice/tree/main/1871-jump-game-vii/) | Medium |
@@ -408,6 +410,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/fionakaushik/DSA-practice/tree/main/0048-rotate-image/) | Medium |
 | [0085-maximal-rectangle](https://github.com/fionakaushik/DSA-practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/fionakaushik/DSA-practice/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1861-rotating-the-box](https://github.com/fionakaushik/DSA-practice/tree/main/1861-rotating-the-box/) | Medium |
