@@ -189,6 +189,7 @@ Ongoing DSA prep repository
 | [3121-count-the-number-of-special-characters-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/fionakaushik/DSA-practice/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ Ongoing DSA prep repository
 | [3699-number-of-zigzag-arrays-i](https://github.com/fionakaushik/DSA-practice/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/fionakaushik/DSA-practice/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +304,7 @@ Ongoing DSA prep repository
 | [3700-number-of-zigzag-arrays-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/fionakaushik/DSA-practice/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/fionakaushik/DSA-practice/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/fionakaushik/DSA-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
