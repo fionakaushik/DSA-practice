@@ -11,6 +11,7 @@ Ongoing DSA prep repository
 | [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/fionakaushik/DSA-practice/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/fionakaushik/DSA-practice/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ Ongoing DSA prep repository
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/fionakaushik/DSA-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/fionakaushik/DSA-practice/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -225,6 +227,7 @@ Ongoing DSA prep repository
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/fionakaushik/DSA-practice/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/fionakaushik/DSA-practice/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/fionakaushik/DSA-practice/tree/main/3660-jump-game-ix/) | Medium |
@@ -247,6 +250,7 @@ Ongoing DSA prep repository
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/fionakaushik/DSA-practice/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/fionakaushik/DSA-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -287,6 +291,7 @@ Ongoing DSA prep repository
 | [2463-minimum-total-distance-traveled](https://github.com/fionakaushik/DSA-practice/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/fionakaushik/DSA-practice/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/fionakaushik/DSA-practice/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
@@ -324,6 +329,7 @@ Ongoing DSA prep repository
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/fionakaushik/DSA-practice/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/fionakaushik/DSA-practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/fionakaushik/DSA-practice/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Greedy
@@ -343,6 +349,7 @@ Ongoing DSA prep repository
 | [2078-two-furthest-houses-with-different-colors](https://github.com/fionakaushik/DSA-practice/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/fionakaushik/DSA-practice/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/fionakaushik/DSA-practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/fionakaushik/DSA-practice/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/fionakaushik/DSA-practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -535,6 +542,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/fionakaushik/DSA-practice/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
