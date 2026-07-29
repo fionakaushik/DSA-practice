@@ -362,6 +362,7 @@ Ongoing DSA prep repository
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [1306-jump-game-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -408,6 +409,7 @@ Ongoing DSA prep repository
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/fionakaushik/DSA-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -416,6 +418,7 @@ Ongoing DSA prep repository
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/fionakaushik/DSA-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -454,6 +457,7 @@ Ongoing DSA prep repository
 | [0042-trapping-rain-water](https://github.com/fionakaushik/DSA-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/fionakaushik/DSA-practice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/fionakaushik/DSA-practice/tree/main/0085-maximal-rectangle/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/fionakaushik/DSA-practice/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/fionakaushik/DSA-practice/tree/main/0225-implement-stack-using-queues/) | Easy |
