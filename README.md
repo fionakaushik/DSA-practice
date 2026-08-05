@@ -55,6 +55,7 @@ Ongoing DSA prep repository
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/fionakaushik/DSA-practice/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/fionakaushik/DSA-practice/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fionakaushik/DSA-practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/fionakaushik/DSA-practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/fionakaushik/DSA-practice/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -147,6 +148,7 @@ Ongoing DSA prep repository
 | [1331-rank-transform-of-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/fionakaushik/DSA-practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/fionakaushik/DSA-practice/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/fionakaushik/DSA-practice/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/fionakaushik/DSA-practice/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/fionakaushik/DSA-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/fionakaushik/DSA-practice/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -287,6 +289,7 @@ Ongoing DSA prep repository
 | [1331-rank-transform-of-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/fionakaushik/DSA-practice/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/fionakaushik/DSA-practice/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/fionakaushik/DSA-practice/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/fionakaushik/DSA-practice/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/fionakaushik/DSA-practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/fionakaushik/DSA-practice/tree/main/1840-maximum-building-height/) | Hard |
