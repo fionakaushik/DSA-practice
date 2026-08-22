@@ -585,4 +585,8 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/fionakaushik/DSA-practice/tree/main/3620-network-recovery-pathways/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/fionakaushik/DSA-practice/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
