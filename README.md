@@ -588,5 +588,6 @@ Ongoing DSA prep repository
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/fionakaushik/DSA-practice/tree/main/0182-duplicate-emails/) | Easy |
 | [0595-big-countries](https://github.com/fionakaushik/DSA-practice/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
