@@ -370,6 +370,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1306-jump-game-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1306-jump-game-iii/) | Medium |
@@ -419,6 +420,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -430,6 +432,7 @@ Ongoing DSA prep repository
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -442,6 +445,7 @@ Ongoing DSA prep repository
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/fionakaushik/DSA-practice/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
