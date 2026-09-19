@@ -374,6 +374,7 @@ Ongoing DSA prep repository
 | [0110-balanced-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/fionakaushik/DSA-practice/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/fionakaushik/DSA-practice/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -426,6 +427,7 @@ Ongoing DSA prep repository
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/fionakaushik/DSA-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/fionakaushik/DSA-practice/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/fionakaushik/DSA-practice/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -439,6 +441,7 @@ Ongoing DSA prep repository
 | [0144-binary-tree-preorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/fionakaushik/DSA-practice/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/fionakaushik/DSA-practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/fionakaushik/DSA-practice/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -600,4 +603,8 @@ Ongoing DSA prep repository
 | [0182-duplicate-emails](https://github.com/fionakaushik/DSA-practice/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/fionakaushik/DSA-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0595-big-countries](https://github.com/fionakaushik/DSA-practice/tree/main/0595-big-countries/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/fionakaushik/DSA-practice/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
