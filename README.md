@@ -602,6 +602,7 @@ Ongoing DSA prep repository
 | [0176-second-highest-salary](https://github.com/fionakaushik/DSA-practice/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/fionakaushik/DSA-practice/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/fionakaushik/DSA-practice/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/fionakaushik/DSA-practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0595-big-countries](https://github.com/fionakaushik/DSA-practice/tree/main/0595-big-countries/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
