@@ -605,6 +605,7 @@ Ongoing DSA prep repository
 | [0184-department-highest-salary](https://github.com/fionakaushik/DSA-practice/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/fionakaushik/DSA-practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/fionakaushik/DSA-practice/tree/main/0197-rising-temperature/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/fionakaushik/DSA-practice/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/fionakaushik/DSA-practice/tree/main/0595-big-countries/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
